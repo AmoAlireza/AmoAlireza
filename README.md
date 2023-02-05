@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amoalireza&label=Profile%20views&color=0e75b6&style=flat" alt="amoalireza" /> </p>
 
-- Ask me about Nothing =)
+- Ask me about Nothing ( ´･･)ﾉ(._.`)
 
 - How to reach me? You Can't.
 
