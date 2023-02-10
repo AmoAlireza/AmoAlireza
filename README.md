@@ -1,8 +1,6 @@
 <h1 align="center">Welcome To My Shity Github Profile ☜(ﾟヮﾟ☜)</h1>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/IVCnKbtTeRQAAAAM/programming-computer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amoalireza&label=Profile%20views&color=0e75b6&style=flat" alt="amoalireza" /> </p>
-
 - Ask me about Nothing ( ´･･)ﾉ(._.`)
 
 - How to reach me? You Can't.
