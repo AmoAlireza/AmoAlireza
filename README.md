@@ -10,7 +10,7 @@
 👇***My Shity Codes***👇
 | Code                                                                                              | Language                     |
 | ------------------------------------------------------------------------------------------------- | ---------------------------- |
-| 1. [PlutoIW5 INFECTED SHOP](https://github.com/naabclan/plutoiw5-inf-shop)                        | **GSC**                      |
+| 1. [PlutoIW5 INFECTED SHOP](https://github.com/AmoAlireza/plutoiw5-inf-shop)                        | **GSC**                      |
 | 2. [Simple DDoS Script](https://github.com/AmoAlireza/ddos-py)                                    | **Python**                   |
 | 3. [DDoS-Jesus](https://github.com/AmoAlireza/ddos-jesus)                                         | **Python**                   |
 | 4. [Music Player](https://github.com/AmoAlireza/music-player)                                     | **HTML,CSS,JavaScript**      |
